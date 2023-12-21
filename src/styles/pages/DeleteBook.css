@@ -1,0 +1,8 @@
+.delete-book-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* max-width: 400px; */
+    margin: 0 2rem;
+    padding: 2rem 0;
+}
